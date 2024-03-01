@@ -16,8 +16,6 @@ qbittorrent
 kitty
 solaar
 imhex
-orbvis
-element
 gpredict
 gnome-software
 gnome-boxes
