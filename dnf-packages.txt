@@ -21,3 +21,5 @@ element
 gpredict
 gnome-software
 gnome-boxes
+plank
+plank-docklets
